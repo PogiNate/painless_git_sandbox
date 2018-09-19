@@ -1,6 +1,6 @@
 # Ten Best Small Mammals
 
-1.  Sugar Gliders
+1.  Cats
 2.  Dogs
 3.  Chinchillas
 4.  Guinea Pigs
